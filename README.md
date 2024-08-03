@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social links profile]()
-- Live Site URL: [Social links profile Live]()
+- Solution URL: [Social links profile](https://github.com/Shoaib-Bin-Rashid/Social-links-profile.git)
+- Live Site URL: [Social links profile Live](https://shoaib-bin-rashid.github.io/Social-links-profile/)
 
 ## My process
 
