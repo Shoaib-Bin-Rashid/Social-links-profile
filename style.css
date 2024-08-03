@@ -29,10 +29,10 @@ main{
 }
 
 .container img{
-    width: 30%;
+    width: 38%;
     height: auto;
-    border-radius: 50% ;
-    margin: 10px;
+    border-radius: 50%;
+    margin-bottom: 18px;
 }
 
 h1.name{
